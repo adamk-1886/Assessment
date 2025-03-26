@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ### 4. Set Up Environment Variables
 Create a `.env` file in the root directory and add the following:
 ```ini
-MONGODB_URI=mongodb+srv://your_username:your_password@your_cluster.mongodb.net/db_name
+MONGODB_URI=your mogodb url
 PINECONE_API_KEY=your_pinecone_api_key
 PINECONE_API_KEY=your pinecone api key
 PINECONE_INDEX_NAME=your pinecone index name
