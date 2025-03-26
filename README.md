@@ -19,8 +19,8 @@ Before running the project, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone https://github.com/adamk-1886/Assessment.git
+cd Assessment
 ```
 
 ### 2. Create and Activate Virtual Environment
